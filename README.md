@@ -1,7 +1,5 @@
 # ESPRESSO: An Effective Approach to Passage Retrieval for High-Quality Conversational Recommender Systems
 
----
-
 This repository provides a reference implementation of VITA as described in the following paper:
 
 > ESPRESSO: An Effective Approach to Passage Retrieval for High-Quality Conversational Recommender Systems. 
